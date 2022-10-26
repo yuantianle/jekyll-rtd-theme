@@ -1,15 +1,27 @@
-title: Tianle Yuan's Blog
-description: Just another documentation theme compatible with GitHub Pages
+title: jekyll-rtd-theme
+lang: en
+description: GitHub-flavored docs theme for Jekyll
 
 theme: null
 
-# debug:
-#   compress: true
-#   dist: false
-#   shortcodes: true
+nav_version: true
+edit: true
+addons_branch: true
+
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
+copyright:
+  revision: true
 
 readme_index:
   with_frontmatter: true
+
+sass:
+  style: compressed
 
 plugins:
   - jemoji
@@ -19,13 +31,14 @@ plugins:
 exclude:
   - Makefile
   - CNAME
-  - LICENSE
-  - update.sh
   - Gemfile
   - Gemfile.lock
+  - LICENSE
   - requirements.txt
   - node_modules
   - package.json
   - package-lock.json
-  - webpack.config.js
   - jekyll-rtd-theme.gemspec
+
+baseurl: ""
+url: "kimkyunghwan21.github.io"

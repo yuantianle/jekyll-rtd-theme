@@ -3,4 +3,7 @@ layout: null
 permalink: /robots.txt
 ---
 
-{%- include common/assets/robots.liquid -%}
+User-agent: *
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absolute_url }}
