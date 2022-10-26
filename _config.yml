@@ -1,6 +1,6 @@
-title: jekyll-rtd-theme
+title: Tianle Yuan's Blog
 lang: en
-description: GitHub-flavored docs theme for Jekyll
+description: Good memory as bad written.
 
 theme: null
 
@@ -40,5 +40,5 @@ exclude:
   - package-lock.json
   - jekyll-rtd-theme.gemspec
 
-baseurl: ""
-url: "kimkyunghwan21.github.io"
+baseurl: "/jekyll-rtd-theme"
+url: "https://yuantianle.github.io"
