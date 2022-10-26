@@ -1,5 +1,8 @@
 title: Tianle Yuan's Blog
 lang: en
+
+languages: ["en", "zh-cn"] 
+
 description: Good memory as bad written.
 
 theme: null
@@ -11,7 +14,6 @@ addons_branch: true
 addons:
   - github
   - i18n
-  - plugins
   - analytics
 
 copyright:
@@ -20,8 +22,8 @@ copyright:
 readme_index:
   with_frontmatter: true
 
-sass:
-  style: compressed
+#sass:
+#  style: compressed
 
 plugins:
   - jemoji
