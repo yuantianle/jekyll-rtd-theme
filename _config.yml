@@ -1,7 +1,8 @@
 title: Tianle Yuan's Blog
-lang: 
-  -en
-  -zh-cn
+lang: en
+
+languages: ["en", "de"]
+
 description: Good memory as bad written.
 
 theme: null
