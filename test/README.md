@@ -1,13 +1,10 @@
 ---
-sort: 3
+sort: 2
 ---
 
-# Three.js
+# Test Documentation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
 ```
-
 {% include list.liquid all=true %}
