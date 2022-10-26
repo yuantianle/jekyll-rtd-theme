@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 5
 ---
 
-# Computer Graphics
+# Math
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

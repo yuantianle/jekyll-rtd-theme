@@ -1,8 +1,4 @@
----
-sort: 2
----
-
-# Computer Graphics
+# Terminal
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

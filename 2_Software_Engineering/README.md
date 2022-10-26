@@ -2,9 +2,11 @@
 sort: 3
 ---
 
-# This is an incredibly long caption for a long menu
+# Software Engineering
 
 ```
+{% raw %}{% include list.liquid all=true %}{% endraw %}
+
 {% include list.liquid all=true %}
 ```
 

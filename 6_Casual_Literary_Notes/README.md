@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 6
 ---
 
-# Computer Graphics
+# Casual Literary Notes
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

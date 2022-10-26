@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 7
 ---
 
-# Computer Graphics
+# Guitar Garage
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
