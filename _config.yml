@@ -19,8 +19,8 @@ copyright:
 readme_index:
   with_frontmatter: true
 
-sass:
-  style: compressed
+#sass:
+#  style: compressed
 
 plugins:
   - jemoji
