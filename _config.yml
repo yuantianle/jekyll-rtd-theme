@@ -1,5 +1,7 @@
 title: Tianle Yuan's Blog
-lang: zh-cn
+lang: en
+
+languages: ["en", "zh-cn"] 
 
 description: Good memory as bad written.
 
