@@ -2,3 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=yuantianle&style=plastic&color=FC011A)
 
 [![Tianle Yuan's GitHub stats](https://github-readme-stats.vercel.app/api/?username=yuantianle&show_icons=true&theme=vision-friendly-dark&bg_color=20,2D2D2D,3B3652,5D4CAA)](http://yuantianle.com)
+
+# Table of Contents:
+{% include list.liquid all=true %}
