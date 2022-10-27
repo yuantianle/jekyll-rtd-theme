@@ -2,6 +2,6 @@
 sort: 2
 ---
 
-# Computer Graphics
+# :crystal_ball: Computer Graphics
 
 {% include list.liquid all=true %}
