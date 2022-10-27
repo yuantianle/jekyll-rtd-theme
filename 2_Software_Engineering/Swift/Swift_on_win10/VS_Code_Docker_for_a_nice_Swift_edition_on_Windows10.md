@@ -69,7 +69,7 @@ Let’s check your Docker desktop and click the item that is running:
 <img src="attachments/74350771/74416299.png" width="800"/>
 </p>
 
-```tips
+```tip
 #### Try it now (Optional) :point_down:
 
 Let’s decorate the bad terminal interface! Here we will use “oh-my-zsh“.
@@ -114,7 +114,7 @@ To make VS Code your swift code editor, install the extensions: `swift`, `Docker
 <p align="center">
 <img src="attachments/74350771/74416323.png" width="800"/>
 </p>
-```tips
+```tip
 #### Try it now :point_down:
 ```
 1.  Now you run your docker desktop;
