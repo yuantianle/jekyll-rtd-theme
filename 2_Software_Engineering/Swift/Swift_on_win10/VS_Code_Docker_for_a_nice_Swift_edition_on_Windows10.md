@@ -68,6 +68,7 @@ Let’s check your Docker desktop and click the item that is running:
 <p align="center">
 <img src="attachments/74350771/74416299.png" width="800"/>
 </p>
+
 ```tips
 #### Try it now (Optional) :point_down:
 
@@ -90,6 +91,7 @@ Then change `ZSH_THEME="agnoster"`.
 
 Restart your terminal in Docker and run `zsh`
 ```
+
 ```note
 A better way is do as shown in [A good model of Docker Image](https://oregonstate-innovationlab.atlassian.net/wiki/spaces/CS561/pages/74350864/A+good+model+of+Docker+Image) , so you do not have to set the environment everytime!
 ```
