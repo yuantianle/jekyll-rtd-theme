@@ -2,7 +2,7 @@
 sort: 6
 ---
 
-# :speak_no_evil: Casual Literary Notes
+# :speech_balloon: Casual Literary Notes
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
