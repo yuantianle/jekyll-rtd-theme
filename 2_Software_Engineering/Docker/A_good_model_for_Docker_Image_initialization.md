@@ -8,8 +8,7 @@ sort: 2
 
 There are three steps:  
 (1) Create a file named `Dockerfile` in your folder. About FROM, MAINTAINER, and RUN, learn from:
-
-[https://www.simplilearn.com/tutorials/docker-tutorial/what-is-dockerfile](https://www.simplilearn.com/tutorials/docker-tutorial/what-is-dockerfile)
+[What-is-dockerfile](https://www.simplilearn.com/tutorials/docker-tutorial/what-is-dockerfile)
 
 ```dockerfile
 FROM swiftlang/swift:nightly-focal
