@@ -1,6 +1,10 @@
+---
+sort: 2
+---
+
 # A good model for Docker Image initialization
 
->From what we learned: [Docker](https://oregonstate-innovationlab.atlassian.net/wiki/spaces/CS561/pages/3932272/Docker), we learned how to use Docker compose to run containers in parallel. In that learning, we directly use `swiftlang/swift:nightly-focal` from the Docker repo. Here, we will learn how to create and use our own Docker Image in the Docker compose.
+>From what we learned: [Docker](Basic.md), we learned how to use Docker compose to run containers in parallel. In that learning, we directly use `swiftlang/swift:nightly-focal` from the Docker repo. Here, we will learn how to create and use our own Docker Image in the Docker compose.
 
 There are three steps:  
 (1) Create a file named `Dockerfile` in your folder. About FROM, MAINTAINER, and RUN, learn from:

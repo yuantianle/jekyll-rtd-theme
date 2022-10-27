@@ -4,7 +4,7 @@ sort: 1
 
 # TL;DR
 
-VS Code + Docker. Especially useful on Windows, but can be handy on MacOS too. For a step-by-step guide, see [VS Code - Docker for a nice Swift edition on Windows10](VS-Code---Docker-for-a-nice-Swift-edition-on-Windows10_74350771.html) .
+VS Code + Docker. Especially useful on Windows, but can be handy on MacOS too. For a step-by-step guide, see [VS Code - Docker for a nice Swift edition on Windows10](VS_Code_Docker_for_a_nice_Swift_edition_on_Windows10.md) .
 
 Here is Tianle Yuan’s own summary from Slack.
 
