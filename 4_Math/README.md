@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Math
+# :japanese_goblin: Math
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

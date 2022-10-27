@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# Guitar Garage
+# :guitar: Guitar Garage
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
