@@ -19,7 +19,7 @@ sort: 2
 5.  An updated way to do Swift code editing and testing. \[syntax highlighting and autocomplete\]
     
 ```note
-Please feel free to extend the content of the page. Window10 students need your contributions! 🧠
+Please feel free to extend the content of the page. Window10 students need your contributions! 🧠🧠
 ```
 
 **1\. Software Preparation**
