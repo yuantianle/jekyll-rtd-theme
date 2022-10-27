@@ -7,7 +7,7 @@ There are three steps:
 
 [https://www.simplilearn.com/tutorials/docker-tutorial/what-is-dockerfile](https://www.simplilearn.com/tutorials/docker-tutorial/what-is-dockerfile)
 
-```css
+```dockerfile
 FROM swiftlang/swift:nightly-focal
 
 MAINTAINER simpli
@@ -25,7 +25,7 @@ RUN zsh
 (2) Then run `docker build -t simpli_image [location of your dockerfile]` to build a Docker Image.  
 (3) Finally, the yml below as `docker-compose run --rm dev`:
 
-```css
+```yml
 services:
   dev:
     image: simpli_image #"swiftlang/swift:nightly-focal"
