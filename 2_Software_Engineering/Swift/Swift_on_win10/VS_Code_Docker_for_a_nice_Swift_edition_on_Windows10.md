@@ -2,9 +2,9 @@
 sort: 2
 ---
 
-# VS Code-Docker for a nice Swift edition on Windows10
+# VS Code-Docker for editing Swift on Win10
 
-**As a student who is also confused about using Swift on Windows10, I can understand how hard you are if you cannot afford a Macbook** :joy:. **Let's get started and prove that we can do the same thing as a Windows pioneer!**
+>**As a student who is also confused about using Swift on Windows10, I can understand how hard you are if you cannot afford a Macbook** :joy:. **Let's get started and prove that we can do the same thing as a Windows pioneer!**
 
 **There are several steps here for you to reach a slightly friendly interface:**
 
@@ -69,7 +69,7 @@ Let’s check your Docker desktop and click the item that is running:
 <img src="attachments/74350771/74416299.png" width="800"/>
 </p>
 ```tips
-### Try it now (Optional) :point_down:
+#### Try it now (Optional) :point_down:
 
 Let’s decorate the bad terminal interface! Here we will use “oh-my-zsh“.
 
@@ -113,7 +113,7 @@ To make VS Code your swift code editor, install the extensions: `swift`, `Docker
 <img src="attachments/74350771/74416323.png" width="800"/>
 </p>
 ```tips
-### Try it now :point_down:
+#### Try it now :point_down:
 ```
 1.  Now you run your docker desktop;
     
@@ -136,9 +136,9 @@ To make VS Code your swift code editor, install the extensions: `swift`, `Docker
     <p align="center">
     <img src="attachments/74350771/74416341.png" width="800"/>
     </p>
-
+```note
 You see! The terminal shows the same beautiful highlighting as we saw in the docker desktop terminal. :thumbsup:
-
+```
 **4\. Edit Swift code and do testing**
 --------------------------------------
 
@@ -174,8 +174,9 @@ Open swift files by clicking the content on the left side directory:
 <img src="attachments/74350771/74416377.png" width="800"/>
 </p>
 
-### Try it now :point_down:
-
+```tip
+#### Try it now :point_down:
+```
 Let’s do the testing of the test folder:
 
 <p align="center">
@@ -254,6 +255,6 @@ Nice nice!!!! There are no differences between Windows VS Code and macOS Xcode n
 
 * * *
 
-:muscle: Now you're a pro in Windows 10 swift programming… Feel free to add more cool stuff here!
+>**:muscle: Now you're a pro in Windows 10 swift programming… Feel free to add more cool stuff here!**
 
 Tianle Yuan – 10/14/2022
