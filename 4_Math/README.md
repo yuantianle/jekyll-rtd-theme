@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# :japanese_goblin: Math
+# :chart_with_upwards_trend: Math
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
