@@ -11,13 +11,10 @@
             <a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a>
         </dd>    
         -->
-            {% case item %}
-                {% when "zh-cn" %}
-                    <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a></dd>
-                {% when "en" %}
-                    <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a></dd>
-                {% else %}
-            {% endcase %}
+
+        <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ __en }}</a></dd>
+        <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ __zh }}</a></dd>
+
         
     {%- endfor -%}
 </dl>
