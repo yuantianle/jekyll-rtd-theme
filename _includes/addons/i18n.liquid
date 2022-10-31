@@ -1,6 +1,7 @@
 <dl>
     <dt>{{ __translations }}</dt>
     {%- for item in site_langs -%}
+        <!--
         <dd>
             {%- if item == site_lang -%}
                 {%- assign url = "" -%}
@@ -8,6 +9,15 @@
                 {%- assign url = item | append: "/" -%}
             {%- endif -%}
             <a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a>
-        </dd>
+        </dd>    
+        -->
+            {% case item %}
+                {% when "zh-cn" %}
+                    <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a></dd>
+                {% when "en" %}
+                    <dd><a href="{{ site.baseurl }}/{{ url }}"><i class="fa fa-language"></i> {{ item }}</a></dd>
+                {% else %}
+            {% endcase %}
+        
     {%- endfor -%}
 </dl>
